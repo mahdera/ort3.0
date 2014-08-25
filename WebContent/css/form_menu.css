@@ -1,0 +1,109 @@
+.m0l0mouti {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight:bold;
+	text-align: center;
+	vertical-align: middle;
+	color:#FFFFFF;
+	padding: 4px;
+	text-decoration: none;
+}
+.m0l0mouto {
+	background: #023568;
+	border : 2px ridge #6699cc;
+	margin: 0px;
+	text-decoration: none;
+}	
+
+.m0l0moveri {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight:bold;
+	font-style:normal;
+	text-align:center;
+	vertical-align:middle;
+	color:#FF9933;
+	padding:4px;
+	text-decoration:underline;
+	background: #6699CC;
+}
+
+.m0l0movero {
+	background-color:#6699CC;
+	border : 2px ridge #6699CC;
+	margin: 0px;
+	text-decoration: none;
+}	
+
+.m0l0mdowni {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style:normal;
+	text-align: center;	
+	vertical-align: middle;	
+	color : #ffffff;
+	padding: 4px;
+	text-decoration: none;
+}
+
+.m0l0mdowno {
+	background: #023568;
+	border : 2px ridge #6699CC;
+	margin: 0px;
+	text-decoration: none;
+}	
+	.menu_notavailable{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background-color:#666666;
+	padding-left:20px;
+	cursor:crosshair;
+	text-decoration:line-through;
+	}
+	.menu_unavailable{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background-color:#640000;
+	padding-left:20px;
+	cursor:crosshair;
+	font-style:italic;
+	background-image:url(../images/exclamation.gif);
+	background-repeat:no-repeat;
+	}
+	.menu_default{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background-color:#023568;
+	padding-left:20px;
+	cursor:pointer;	
+	}
+	.menu_standard{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background-color:#023568;
+	cursor:pointer;	
+	}
+	.menu_default_bottom{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	border-bottom:1px #6699CC solid;
+	background-color:#023568;
+	text-indent:20px;
+	cursor:pointer;	
+	}
+	.menu_visited{
+	border-top:1px #6699CC solid;
+	border-left:1px #6699CC solid;
+	border-right:1px #6699CC solid;
+	background-color:#023568;
+	background-image:url(../images/left_arrow.gif);
+	background-repeat: no-repeat;
+	padding-left:20px;
+	cursor:pointer;
+	}

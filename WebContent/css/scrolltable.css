@@ -1,0 +1,45 @@
+div.tableContainer{
+  float:left; 
+  overflow:auto !important;
+  overflow-x:hidden;
+/*
+  overflow:auto; 
+*/
+  margin: 0px auto;
+}
+table.scrollable {
+  margin-right:0px; 
+/*
+  margin-right:10px; 
+*/
+  border-collapse:separate; 
+}
+table.scrollable thead tr {
+  position: relative;
+  top: expression(offsetParent.scrollTop - 2); /*IE5+ only*/
+}
+/*
+table.scrollable thead th{
+  border-top:1px solid;
+  border-left:1px solid;
+  border-bottom:1px solid;
+  border-right:1px solid;
+}
+*/
+table.scrollable tbody { /* child selector syntax which IE6 and older do not support*/
+  height:100%;
+  overflow:auto;
+  overflow-x: hidden;
+}
+table.scrollable tr {
+  height:0px; 
+}
+/*
+table.scrollable td {
+  border-top:1px solid;
+  border-left:1px solid;
+  border-right:1px solid;
+  border-bottom:1px solid;
+}
+*/
+table.scrollable td:last-child {padding-right: 10px;} /*prevent Mozilla scrollbar from hiding cell content*/

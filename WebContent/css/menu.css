@@ -1,0 +1,120 @@
+
+	
+.m0l0mouti {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight:bold;
+	text-align: left;
+	vertical-align: middle;
+	color:#FFFFFF;
+	padding: 4px;
+	text-decoration: none;
+}
+.m0l0mouto {
+	background: #02447F;
+	border : 1px solid #6699cc;
+	margin: 0px;
+	text-decoration: none;
+}	
+
+.m0l0moveri {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight:bold;
+	font-style:normal;
+	text-align:left;
+	vertical-align:middle;
+	color:#FF9933;
+	padding:4px;
+	text-decoration:underline;
+}
+
+.m0l0movero {
+	background: #02447F;
+	border : 1px solid #6699CC;
+	margin: 0px;
+	text-decoration: none;
+}	
+
+.m0l0mdowni {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style:normal;
+	text-align: left;	
+	vertical-align: middle;	
+	color : #ffffff;
+	padding: 4px;
+	text-decoration: none;
+}
+
+
+.m0l0mdowno {
+	background: #02447F;
+	border : 1px solid #6699CC;
+	margin: 0px;
+	text-decoration: none;
+}	
+		
+	
+.m0l1mouti {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;
+	vertical-align: middle;
+	color : #FFFFFF;
+	margin: 0 0 0 15px;
+	padding: 4px;
+	text-decoration: none;
+}
+.m0l1mouto {
+	background: #306498;
+	border : 1px solid #6699CC;
+	margin: 0px;
+	text-decoration: none;
+	FILTER: alpha(opacity=90);
+	opacity: .90;
+}	
+
+.m0l1moveri {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	font-style:normal;
+	text-align: left;
+	vertical-align: middle;
+	color : #FF9933;
+	margin: 0 0 0 15px;
+	padding: 4px;
+	text-decoration: underline;
+}
+
+.m0l1movero {
+	background: #1A4D81;
+	background-image:url(/CAS/images/lev1_arrow.gif);
+	background-repeat: no-repeat;
+	border : 1px solid #6699cc;
+	padding:0;
+	text-decoration: none;
+}	
+
+.m0l1mdowni {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: left;	
+	vertical-align: middle;	
+	color : #FFFF99;
+	margin: 0 0 0 15px;
+	padding: 4px;
+	text-decoration: none;
+}
+
+
+.m0l1mdowno {
+	background: #306498;
+	border : 1px solid #6699cc;
+	margin: 0px;
+	text-decoration:none;
+}	

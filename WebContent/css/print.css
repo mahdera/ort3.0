@@ -1,0 +1,31 @@
+@media print {
+  body {
+  	visibility:hidden;  		
+  }
+  
+  /*.reportTable table,tr,th{
+  	 border-spacing: 0px;
+  	border:1px solid black;
+  	rules: rows,cols;
+  }*/
+ 
+ /*.reportTable tr {
+ 	outline: thin solid black;
+ }*/
+ 
+ .reportTable th, td{
+ 	outline: thin solid #cccccc;
+ }
+  
+  
+  #printPreviewDiv, #printReportDiv, #report_to_print, #report_to_print * {
+    visibility:visible;
+    display:block;
+    background:white;
+  }
+  #printReportDiv, #report_to_print, #printPreviewDiv {
+    position:absolute;
+    left:0;
+    top:0;
+  }
+}

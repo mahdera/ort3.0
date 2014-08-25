@@ -1,0 +1,46 @@
+/* CSS Document */
+
+table.resultsTable 
+{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;  
+  border-collapse: collapse;
+}
+
+.resultsTable th 
+{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: #002142;
+  font-family: "arial";
+  font-size: 10pt;
+  color: white;
+  font-weight: bold;
+  padding-left: 4px;
+  text-align: left;
+}
+
+.resultsTable td 
+{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  font-family: "times new roman";
+  font-size: 10pt;
+  padding-left: 4px;
+}
+
+.resultsTable td.headercell 
+{
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  background-color: #002142;
+  font-family: "arial";
+  font-size: 10pt;
+  color: white;
+  font-weight: bold;
+  padding-left: 4px;
+}
